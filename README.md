@@ -3,7 +3,7 @@
 
 # ✨ Teja's Tips
 🌸 Objective
-I wanted to create a fun and stylish website that shares my love for fashion and makeup. The idea was simple: build a space that feels modern, classy, and easy to scroll through while giving quick style inspiration.
+I created a fun and stylish website that shares my love for fashion and makeup. The idea was simple: build a space that feels modern, classy, and easy to scroll through while giving quick style inspiration.
 
 🪄 What I Did
 Set up the website structure with HTML
@@ -43,5 +43,4 @@ It’s got:
 
 
 
-Ask ChatGPT
-Unlock more with Plus
+
